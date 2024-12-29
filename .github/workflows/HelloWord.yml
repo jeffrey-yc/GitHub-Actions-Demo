@@ -8,7 +8,7 @@ on:
   pull_request: 
     branches: [ main ]
  # 允許你從 Action 頁簽上手動執行 workflow 
-   workflow_dispatch:
+  workflow_dispatch:
  
 # Job 可以循序或平行執行 
 jobs: 
