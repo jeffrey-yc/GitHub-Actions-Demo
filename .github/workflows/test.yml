@@ -1,4 +1,4 @@
-name: CI
+name: multiple CI function
 on:
   push:
     branches: [main]
